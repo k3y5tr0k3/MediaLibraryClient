@@ -1,2 +1,3 @@
 # MediaLibraryClient
- A simple console app written in java to act as a client for the MediaLibraryApp
+ 
+ Merged to [MediaLibrary](https://github.com/k3y5tr0k3/MediaLibrary)
